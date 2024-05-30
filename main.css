@@ -46,6 +46,7 @@ a {
     }
     .item {
         width: 50vw;
+        height: 20vw;
     }
     a {
         font-size: 5vw;
